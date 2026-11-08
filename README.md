@@ -89,5 +89,4 @@ There is no auto-reset circuit, which keeps the part count minimal.
 - Add ESD protection on the USB data lines
 
 ## Author
-
-Your Name
+Prakash
